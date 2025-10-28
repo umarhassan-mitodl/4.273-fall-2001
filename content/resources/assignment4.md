@@ -4,8 +4,6 @@ description: Assignment 4
 file: /courses/4-273-introduction-to-design-inquiry-fall-2001/885c9e9e99268b4dd92cc93cc4bc5c44_assignment4.pdf
 file_size: 987891
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

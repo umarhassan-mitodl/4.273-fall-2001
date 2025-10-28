@@ -4,8 +4,6 @@ description: 'Assignment 6: Redesigning the Game'
 file: /courses/4-273-introduction-to-design-inquiry-fall-2001/6c972c94a4d084b9cf5253200bf7a8b5_Assignment6.pdf
 file_size: 228600
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

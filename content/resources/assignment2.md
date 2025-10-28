@@ -4,8 +4,6 @@ description: What do I see?
 file: /courses/4-273-introduction-to-design-inquiry-fall-2001/9a244a8ecd89a51c73486592c7dec0bc_Assignment2.pdf
 file_size: 1303844
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

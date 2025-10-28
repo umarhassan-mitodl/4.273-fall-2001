@@ -4,8 +4,6 @@ description: Takehikp's Experiment
 file: /courses/4-273-introduction-to-design-inquiry-fall-2001/1dcd989af4f380af655aba0ef461f639_assignment7.pdf
 file_size: 1001897
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

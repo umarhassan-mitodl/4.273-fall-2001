@@ -5,8 +5,6 @@ description: 'Assignment 10: Reflection on the relation between 4.273 and my own
 file: /courses/4-273-introduction-to-design-inquiry-fall-2001/6e760db60eeb85f36ba1687d7adc1193_Assignment10.pdf
 file_size: 13965
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

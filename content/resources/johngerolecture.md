@@ -4,8 +4,6 @@ description: Genetic Algorithms
 file: /courses/4-273-introduction-to-design-inquiry-fall-2001/da5ae6152463537658883d3a1e11215a_johngerolecture.pdf
 file_size: 845331
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

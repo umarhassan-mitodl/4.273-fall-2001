@@ -2,8 +2,6 @@
 content_type: page
 description: Images from the playing of the 'Silent Game', which was the precursor
   to Assignment 6.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Silent Game Images

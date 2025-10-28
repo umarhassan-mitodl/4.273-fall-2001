@@ -6,8 +6,6 @@ description: 'Silent Game Images
 file: /courses/4-273-introduction-to-design-inquiry-fall-2001/b88d298f6ff7a8bb98f9c977b325033b_silentgameimageso.pdf
 file_size: 330266
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

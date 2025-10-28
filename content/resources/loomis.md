@@ -4,8 +4,6 @@ description: ''
 file: /courses/4-273-introduction-to-design-inquiry-fall-2001/c06151fa1efcf89ce29625a28b0332ad_loomis.pdf
 file_size: 405081
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

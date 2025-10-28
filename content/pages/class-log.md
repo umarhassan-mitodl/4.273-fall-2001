@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: A log of the events of each class session.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Class Log

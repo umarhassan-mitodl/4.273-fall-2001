@@ -4,8 +4,6 @@ description: Open Experiment
 file: /courses/4-273-introduction-to-design-inquiry-fall-2001/44fb085bcef791c58e8ea842e409e675_nagakura7.pdf
 file_size: 65484
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

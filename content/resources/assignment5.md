@@ -4,8 +4,6 @@ description: Type
 file: /courses/4-273-introduction-to-design-inquiry-fall-2001/30825e2126e737d49da6c9e975c52bf2_assignment5.pdf
 file_size: 2190320
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
